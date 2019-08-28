@@ -19,6 +19,6 @@ logging.level:
   org.superbiz.moviefun: DEBUG
 
 s3:
-  accessKey: AKIAVT7FZ27L4A6GPL2T
-  secretKey: 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
-  bucketName: jyun.lsis.com
+  accessKey: 
+  secretKey: 
+  bucketName: 
